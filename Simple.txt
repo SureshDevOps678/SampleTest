@@ -1,5 +1,5 @@
 Hi Suresh Ratakonda
 
-Welcome to DevOps Learning
+Welcome to GCP DevOps Training
 
 Thank you
